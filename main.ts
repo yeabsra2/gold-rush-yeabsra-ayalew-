@@ -32,4 +32,4 @@ while (score < 10) {
         basic.pause(100)
     }
 }
-basic.showString("Game Over")
+basic.showString("You Lose")
